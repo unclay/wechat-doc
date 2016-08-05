@@ -16,5 +16,9 @@
 	![weui-demo](https://raw.githubusercontent.com/weui/weui/master/dist/example/snapshot/qrcode.png)
 + 微信web开发者工具
 	+ [微信web开发者工具](https://mp.weixin.qq.com/wiki?action=doc&id=mp1455784140&t=0.3841219220934431&token=&lang=zh_CN "微信web开发者工具")
++ 微信支付
++ 	+ [微信支付开发文档](https://pay.weixin.qq.com/wiki/doc/api/index.html)
+	+ [H5调起支付API](https://pay.weixin.qq.com/wiki/doc/api/jsapi.php?chapter=7_7&index=6)
+
 ## 微信浏览器
 + [微信浏览器全面升级至X5 Blink内核](https://mp.weixin.qq.com/cgi-bin/announce?action=getannouncement&key=1461077225&version=1&lang=zh_CN)
