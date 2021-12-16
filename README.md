@@ -1,6 +1,12 @@
 # 微信开发文档
 微信开发文档，本人是FE，所以文档偏向FE收集
 
+## 微信文档
+
++ 微信官方文档
+	 + [微信官方文档](https://developers.weixin.qq.com/doc/)\
+	 + [微信小程序](https://developers.weixin.qq.com/miniprogram/dev/framework/)
+
 ## 微信公众号
 + 微信公众号
 	+ [微信公众号wiki](https://mp.weixin.qq.com/wiki)
